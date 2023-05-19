@@ -4,7 +4,7 @@ Criei uma lista de compras simples com Angular e Bootstrap. Com ela, é possíve
 
 ATENÇÃO :exclamation: não adicionei a opção de editar, pelo fato do propósito da ferramenta ser algo simples para ser utilizado, então basta remover e adicionar outro produto.
 
-Link de acesso para o site: https://oneonjr.github.io/ListaDeCompras/
+Link de acesso: https://oneonjr.github.io/ListaDeCompras/
 
 
 # Tecnologias 
